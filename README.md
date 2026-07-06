@@ -356,11 +356,8 @@ Users are responsible for ensuring compliance with applicable laws, institutiona
 
 ---
 
-# 📄 License
 
-MIT License
 
----
 
 ## ⭐ Support
 
@@ -368,5 +365,5 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
-**Version:** 1.0  
+**Version:** 2.0  
 **Status:** Active Development
