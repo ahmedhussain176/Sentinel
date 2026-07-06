@@ -24,7 +24,6 @@ Inspired by modern cybersecurity workflows, Sentinel combines Natural Language P
 
 ## 📸 Preview
 
-> *(Add screenshots here)*
 
 <img src="assets/sentinel.png" width="900">
 
