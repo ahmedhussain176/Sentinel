@@ -16,7 +16,7 @@
 Inspired by modern cybersecurity workflows, Sentinel combines Natural Language Processing (NLP), heuristic AI detection, document automation, and intelligent reporting into a modular command-line platform capable of processing both individual documents and large batches efficiently.
 
 **Status:** Active Development  
-**Version:** 1.0  
+**Version:** 2.0  
 **Language:** Python 3.10+  
 **Platform:** Windows • Linux • macOS
 
