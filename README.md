@@ -344,9 +344,14 @@ Users are responsible for ensuring compliance with applicable laws, institutiona
 
 # 👨‍💻 Developer
 
-**Ahmed Hussain**
+**AHMED HUSSAIN**
 
-Red Hat Hacker • Full Stack Developer • Security Researcher
+                                                               **Demo || Developer**  
+ 
+
+                                            Red Hat Hacker • Full Stack Developer • Security Researcher
+
+                                       *"Advanced mobile security research tools for authorized professionals"*
 
 > **Think. Verify. Improve. Secure.**
 
