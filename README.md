@@ -341,6 +341,9 @@ Users are responsible for ensuring compliance with applicable laws, institutiona
 
 ---
 
+## License
+All rights reserved. This repository is shared for viewing only; no license is granted for reuse, modification, or redistribution.
+
 # 👨‍💻 Developer
 
 **AHMED HUSSAIN**
